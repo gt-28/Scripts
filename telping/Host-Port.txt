@@ -1,5 +1,0 @@
-google.com:443
-gmail.com:443
-yahoo.com :80
-chef.io:80
-127.0.0.1:80
